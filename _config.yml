@@ -21,7 +21,7 @@
 title: Sebastian E
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Changing the description for science
+  Centralized info about me, for interested parties.
 baseurl: "/seba_blog" # the subpath of your site, e.g. /blog
 url: "https://sebastian-espeset.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "seba_espeset"
